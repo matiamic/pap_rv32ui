@@ -3,8 +3,10 @@
 Leží před vámi implementace procesoru podle specifikace rv32ui.
 
 Neboť BRUTE mi neumožní nahrát zip se symlinky, prosím o naklonování repozitáře:
+
 ```
-git clone 
+git clone https://github.com/matiamic/pap_rv32ui.git
+```
 
 Tento archiv obsahuje dva podadresáře
 1. `rv32ui_single_cycle` - samotná implementace procesoru ve Verilogu společně se svým testbenchem.
