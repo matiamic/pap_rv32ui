@@ -1,0 +1,7 @@
+*.o
+*.bin
+*.dat
+*.decb
+*.srec
+change_me
+depend
